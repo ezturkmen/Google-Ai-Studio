@@ -10,3 +10,5 @@ Google AI Studio ve Gemini modellerinin gücünü kullanarak, yüklenen kahve fi
 Geleneksel kahve falı ritüelini yapay zeka teknolojisiyle birleştirerek, eğlenceli ve etkileşimli bir deneyim sunmayı amaçlar.
 
 SIRR-I KAHVE link: https://ai.studio/apps/drive/1Ilamw7WPUpVupbV4tKt7dacnVznz102W?fullscreenApplet=true
+
+App link: https://s-rr-kahve-mistik-falc-72229107664.us-west1.run.app/ 
